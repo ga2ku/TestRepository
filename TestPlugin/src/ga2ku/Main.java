@@ -14,7 +14,7 @@ public class Main extends JavaPlugin implements Listener{
 	
 	private final String PLAYER_TAG = "#player";
 	private final String MESSAGE_CHARGE = ChatColor.YELLOW + "*#playerは力をためている*\n" + ChatColor.WHITE + "<#player> むおぉぉぉおおお！";
-	private final String MESSAGE_SHOOT = ChatColor.YELLOW + "*#playerは力を放出した!!*\n" + ChatColor.WHITE + "<#player> とりゃぁぁぁぁぁあああああ！";
+	private final String MESSAGE_SHOOT = ChatColor.YELLOW + "*#playerは力を放出した!!!*\n" + ChatColor.WHITE + "<#player> とりゃぁぁぁぁぁあああああ！";
 	
 	private final Material summonItem = Material.DIAMOND_PICKAXE;
 	
